@@ -1,2 +1,2 @@
-# binary-search-tree
+# Binary Search Tree
 Using node base C++ implementation
